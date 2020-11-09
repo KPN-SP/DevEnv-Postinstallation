@@ -2,8 +2,8 @@
 Bij KPC krijg je een VDI zodat je snel aan het werk kunt.
 
 ## KPN VDI:
-1. Regel dat er een ruisnaam voor je is
-2. Regel dat er een VDI voor je is
+1. Regel dat er een ruisnaam voor je is (dit kan de chaptercoach)
+2. Regel dat er een VDI voor je is MET adminrechten (dit kan de chaptercoach)
 3. Ga naar de VDI Url (Deze heb je van de chaptercoach gekregen).
 4. Login met je ruisnaam (Deze heb je van je chaptercoach gekregen).
 5. Onder desktops, ga naar je desktop.
