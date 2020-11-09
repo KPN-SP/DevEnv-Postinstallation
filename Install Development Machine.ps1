@@ -5,7 +5,6 @@ choco install -y --ignore-checksums microsoft-edge
 
 # Communication Tools
 choco install -y --ignore-checksums slack
-choco install -y --ignore-checksums microsoft-teams.install
 
 # Basic tools
 choco install -y --ignore-checksums 7zip.install
@@ -24,7 +23,6 @@ choco install -y --ignore-checksums vcredist2012
 choco install -y --ignore-checksums vcredist2013
 choco install -y --ignore-checksums vcredist2015
 choco install -y --ignore-checksums vcredist140 #2017
-choco install -y --ignore-checksums rsat
 choco install -y --ignore-checksums git.install
 choco install -y --ignore-checksums gitkraken
 choco install -y --ignore-checksums powershell-core
